@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'core/utils/firebase_options.dart';
 import 'presentation/providers/auth_gate.dart';
-
+// what is going on
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
@@ -24,3 +24,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
