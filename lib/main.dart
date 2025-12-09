@@ -9,6 +9,8 @@ import 'presentation/providers/auth_gate.dart';
 // i dont't knowgit
 // i dont't know
 
+// I can't do less
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
