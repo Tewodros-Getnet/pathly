@@ -4,7 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'core/utils/firebase_options.dart';
 import 'presentation/providers/auth_gate.dart';
 
-
+// you see everything has it's own time
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
