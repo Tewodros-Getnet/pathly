@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983758616880",
+    "project_id": "pathlly",
+    "storage_bucket": "pathlly.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983758616880:android:f5e6713a1c8fcc1d6eb0f5",
+        "android_client_info": {
+          "package_name": "com.pathlly.app.pathlly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMWGFsmUAmVzB4Yx76zY84Sbkiq3AZuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
