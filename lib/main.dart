@@ -13,6 +13,8 @@ import 'presentation/providers/auth_gate.dart';
 
 //ffff
 
+//hslf;halsfahsfsdflaksdhas
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
